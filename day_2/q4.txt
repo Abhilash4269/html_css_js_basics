@@ -1,0 +1,34 @@
+a.	typeof(1) - number
+		The Number type is a double-precision 64-bit binary format IEEE 754 value
+
+
+b.	typeof(1.1) - number
+		The Number type is a double-precision 64-bit binary format IEEE 754 value
+
+c.	typeof('1.1') - string
+		JavaScript's String type is used to represent textual data. It is a set of
+	      "elements" of 16-bit unsigned integer values. Each element in the String occupies
+            a position in the String. The first element is at index 0, the next at index 1, and so on. 
+            The length of a String is the number of elements in it.
+
+d.	typeof(true) - boolean
+		Boolean represents a logical entity and can have two values: true and false.
+
+e.	typeof(null) - object
+		In computer science, an object is a value in memory which is possibly referenced by an identifier.
+		A JavaScript object is a mapping between keys and values. Keys are strings (or Symbols), and values can be anything. 
+		
+f.	typeof(undefined) - undefined
+		In computing, undefined value is a condition where an expression does not have a correct value, although it is syntactically correct.
+            An undefined value must not be confused with empty string, Boolean "false" or other "empty" values.
+
+g.	typeof([]) - object
+		In computer science, an object is a value in memory which is possibly referenced by an identifier.
+		A JavaScript object is a mapping between keys and values. Keys are strings (or Symbols), and values can be anything.
+ 
+h.	typeof({}) - object
+		In computer science, an object is a value in memory which is possibly referenced by an identifier.
+		A JavaScript object is a mapping between keys and values. Keys are strings (or Symbols), and values can be anything. 
+i.	typeof(NaN) - Number
+		The Number type is a double-precision 64-bit binary format IEEE 754 value
+
