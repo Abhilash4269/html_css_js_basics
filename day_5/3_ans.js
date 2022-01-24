@@ -24,7 +24,7 @@ var titleCase = (str) => {
     }
     return str.join(' ');
 }
-console.log(titleCase("rohan r gEorge"))
+console.log(titleCase("abhilash sai hArnadh"))
 
 //3.Sum of all numbers in an array
 var sum = (n) => {
@@ -63,6 +63,3 @@ var isPrime = (arr3) => {
 
 }
 console.log(isPrime([1, 3, 5, 12, 23, 43, 124, 5, 3, 9, 10, 11, 17]))
-
-//5.Return all the palindromes in an array
-//need help
